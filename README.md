@@ -1,2 +1,3 @@
 # battlecats-runner
-Software that is designed to run "The Battle Cats" android game by PONOS.
+Custom android runtime for The Battle Cats By PONOS.
+Designed for linux.
