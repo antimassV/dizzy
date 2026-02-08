@@ -6,3 +6,5 @@ It's designed to run the x86_64 version of The Battle Cats with near-native perf
 Currently it's in production (it may take weeks to release or maybe just days or hours, it depends on how fast it can be done)
 
 Code will probably be bad.
+
+It will just run the game not modify it in any way.
